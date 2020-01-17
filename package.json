@@ -1,0 +1,19 @@
+{
+  "name": "wisebitstesttask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/test.js --timout"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^79.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.0",
+    "node-key-sender": "^1.0.11"
+  }
+}
