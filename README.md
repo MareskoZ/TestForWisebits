@@ -3,5 +3,5 @@ JS + Mocha based on WebDriver
 
 for run
 
-npm init
-nom test
+1. npm init
+2 .npm test
